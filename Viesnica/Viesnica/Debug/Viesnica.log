@@ -1,0 +1,7 @@
+﻿  funkcijas.cpp
+C:\Users\Kristers\Desktop\Viesnica\Viesnica\funkcijas.cpp(40): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+C:\Users\Kristers\Desktop\Viesnica\Viesnica\Source.cpp(595): warning C4101: 'roomprice': unreferenced local variable
+C:\Users\Kristers\Desktop\Viesnica\Viesnica\Source.cpp(918): warning C4101: 'maxhotels': unreferenced local variable
+  Generating Code...
+  Viesnica.vcxproj -> C:\Users\Kristers\Desktop\Viesnica\Debug\Viesnica.exe

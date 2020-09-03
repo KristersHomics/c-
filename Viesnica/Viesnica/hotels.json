@@ -1,0 +1,616 @@
+{
+    "krievija": {
+        "Max-hotels": 1,
+        "hotels": {
+            "hotel": {
+                "hotel-name": "hotel",
+                "hotel-room-price": 25,
+                "hotel-rooms": {
+                    "1": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "10": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "100": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "101": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "102": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "103": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "104": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "105": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "106": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "107": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "108": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "109": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "11": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "110": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "111": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "112": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "113": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "114": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "115": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "116": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "117": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "118": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "119": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "12": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "120": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "13": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "14": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "15": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "16": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "17": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "18": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "19": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "2": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "20": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "21": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "22": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "23": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "24": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "25": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "26": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "27": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "28": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "29": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "3": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "30": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "31": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "32": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "33": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "34": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "35": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "36": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "37": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "38": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "39": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "4": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "40": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "41": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "42": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "43": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "44": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "45": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "46": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "47": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "48": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "49": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "5": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "50": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "51": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "52": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "53": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "54": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "55": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "56": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "57": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "58": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "59": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "6": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "60": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "61": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "62": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "63": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "64": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "65": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "66": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "67": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "68": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "69": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "7": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "70": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "71": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "72": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "73": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "74": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "75": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "76": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "77": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "78": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "79": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "8": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "80": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "81": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "82": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "83": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "84": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "85": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "86": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "87": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "88": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "89": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "9": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "90": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "91": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "92": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "93": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "94": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "95": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "96": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "97": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "98": {
+                        "reserved": false,
+                        "reserved-from": "",
+                        "reserved-until": ""
+                    },
+                    "99": {
+                        "reserved": true,
+                        "reserved-from": "20-11-2019",
+                        "reserved-until": "30-11-2019"
+                    }
+                },
+                "hotel-stars": "5",
+                "max-hotel-rooms": "120"
+            }
+        },
+        "shortcut": "RU"
+    }
+}

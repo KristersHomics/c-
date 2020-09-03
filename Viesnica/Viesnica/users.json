@@ -1,0 +1,29 @@
+{
+    "Kris": {
+        "admin": false,
+        "country": "Latvia",
+        "name": "Kris",
+        "password": "1",
+        "surname": "H",
+        "username": "Kris",
+        "years": "13"
+    },
+    "a": {
+        "admin": true,
+        "country": "Latvija",
+        "name": "Kristers",
+        "password": "a",
+        "surname": "Homics",
+        "username": "a",
+        "years": "18"
+    },
+    "u": {
+        "admin": false,
+        "country": "LV",
+        "name": "Reinis",
+        "password": "parol",
+        "surname": "Dubovs",
+        "username": "u",
+        "years": "19"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Reinis-Dubovs": {
+        "reservations": {
+            "18468": {
+                "country": "krievija",
+                "date-end": "20-11-2019",
+                "date-start": "30-11-2019",
+                "hotel": "hotel",
+                "price": -250,
+                "reservation-number": "18468",
+                "room": "99",
+                "shortcut": "RU",
+                "stars": "5"
+            }
+        }
+    }
+}
